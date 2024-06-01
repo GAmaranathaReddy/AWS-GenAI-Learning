@@ -41,8 +41,8 @@ nav:
   - 'Agents': agents.md
   - 'Open Source With Bedrock': open-source.md
 
-repo_url: https://github.com/GAmaranathaReddy/AIMLSecurity
-repo_name: G AmaranathaReddy/AIMLSecurity
+repo_url: https://github.com/GAmaranathaReddy/AWS-GenAI-Learning
+repo_name: G AmaranathaReddy/AWS-GenAI-Learning
 edit_uri: /edit/main/docs/
 
 site_url: !!python/object/apply:os.getenv ['GITHUB_PAGES_URL', '']
