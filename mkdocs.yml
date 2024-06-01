@@ -29,7 +29,17 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - 'Main Page': index.md
+  - 'Amazon Bedrock Workshop': aws-bedrock.md
+  - 'Prerequisites':
+      - 'AWS Console (Setup)': setup/aws-console.md
+      - 'AWS CLI(Setup)': setup/aws-cli.md
+  - 'Prompt Engineering': prompt-engineering.md
+  - 'Text Generation': text-generation.md
+  - 'Knowledge Bases and RAG': knowledge-bases-rag.md
+  - 'Model Customization': model-customization.md
+  - 'Image and MultiModal applications': image-multimodal.md
+  - 'Agents': agents.md
+  - 'Open Source With Bedrock': open-source.md
 
 repo_url: https://github.com/GAmaranathaReddy/AWS-GenAI-Learning
 repo_name: GAmaranathaReddy/AWS-GenAI-Learning
