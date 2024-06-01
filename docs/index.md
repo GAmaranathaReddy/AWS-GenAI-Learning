@@ -25,7 +25,7 @@ What’s included in this learning:
 - Agents
 - Open Source
 
-![Over view](docs/imgs/11-overview.png)
+![Over view](imgs/11-overview.png)
 
 
 You can choose the modules that apply to your use case. The modules are independent and have no dependency on each other.
