@@ -1,1 +1,1 @@
-# AIMLSecurity
+# AWS GenAI Learning
