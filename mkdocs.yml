@@ -29,7 +29,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - 'Amazon Bedrock Workshop': aws-bedrock.md
+  - 'Main Page': index.md
 
 repo_url: https://github.com/GAmaranathaReddy/AWS-GenAI-Learning
 repo_name: GAmaranathaReddy/AWS-GenAI-Learning
