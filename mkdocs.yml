@@ -32,7 +32,7 @@ nav:
   - 'Amazon Bedrock Workshop': aws-bedrock.md
   - 'Prerequisites':
       - 'AWS Console (Setup)': setup/aws-console.md
-      - 'AWS CLI(Setup)': setup/aws-cli.md
+      - 'AWS CLI(Setup)': setup/command-line.md
   - 'Prompt Engineering': prompt-engineering.md
   - 'Text Generation': text-generation.md
   - 'Knowledge Bases and RAG': knowledge-bases-rag.md
