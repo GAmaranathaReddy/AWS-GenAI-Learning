@@ -21,12 +21,12 @@
 ![Customization architecture overview](imgs/customizationarchitectureoverview.png)
 ### Security and privacy
 You are always in control of your data
-ü Data not used to improve models, and not shared with model providers
-ü Customer data remain in Region
-ü Support for AWS PrivateLink and VPC configurations
-ü Integration with AWS IAM
-ü API monitoring in AWS CloudTrail, logging & metrics in Amazon CloudWatch
-ü Custom models encrypted and stored with Service or Customer Managed Keys
+- Data not used to improve models, and not shared with model providers
+- Customer data remain in Region
+- Support for AWS PrivateLink and VPC configurations
+- Integration with AWS IAM
+- API monitoring in AWS CloudTrail, logging & metrics in Amazon CloudWatch
+- Custom models encrypted and stored with Service or Customer Managed Keys
 (CMK) - Only you have access to your models
 
 ### Customizing model responses for your business
