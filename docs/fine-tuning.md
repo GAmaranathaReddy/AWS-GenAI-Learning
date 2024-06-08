@@ -20,7 +20,7 @@
 ### Customization architecture overview
 ![Customization architecture overview](imgs/customizationarchitectureoverview.png)
 ### Security and privacy
-You are always in control of your data
+- You are always in control of your data
 - Data not used to improve models, and not shared with model providers
 - Customer data remain in Region
 - Support for AWS PrivateLink and VPC configurations
