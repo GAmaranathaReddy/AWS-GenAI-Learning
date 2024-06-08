@@ -27,7 +27,7 @@ Generated text can be generic, lacking context, and contain hallucination, which
 ## Architecture
 The approach will leverage Bedrock native APIs using the Boto3 SDK. We will demonstrate several patterns with this lab which are detailed below. At a high level the flow of prompt and data can be represented by the diagram below
 
-[Text-Generation](imgs/110-text-generation-simple-1.png)
+![Text-Generation](imgs/110-text-generation-simple-1.png)
 
 ## Sub-patterns
 There are five sub-patterns that will be demonstrated on this module for text generation:
