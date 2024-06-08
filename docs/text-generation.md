@@ -32,7 +32,7 @@ The approach will leverage Bedrock native APIs using the Boto3 SDK. We will demo
 ## Sub-patterns
 There are five sub-patterns that will be demonstrated on this module for text generation:
 
-![Zero-shot generation](src/01_Text_generation/00_text_generation_w_bedrock.ipynb)  - With zero-shot generation, the user will only provide an input request to generate an email without any context. We will explore zero-shot email generation using two approaches: Bedrock API (Boto3) and Bedrock integration with LangChain.
+[Zero-shot generation](src/01_Text_generation/00_text_generation_w_bedrock.ipynb)  - With zero-shot generation, the user will only provide an input request to generate an email without any context. We will explore zero-shot email generation using two approaches: Bedrock API (Boto3) and Bedrock integration with LangChain.
 
 [Code generation](src/01_Text_generation/01_code_generation_w_bedrock.ipynb)  - With zero-shot generation we can leverage the code generation capability of the model. This is based on the data learnt by the model during training.
 
