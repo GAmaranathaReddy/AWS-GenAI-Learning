@@ -39,7 +39,9 @@ nav:
   - 'Model Customization': model-customization.md
   - 'Image and MultiModal applications': image-multimodal.md
   - 'Agents': agents.md
+  - 'Fine-tuning': fine-tuning.md
   - 'Open Source With Bedrock': open-source.md
+  
 
 repo_url: https://github.com/GAmaranathaReddy/AWS-GenAI-Learning
 repo_name: GAmaranathaReddy/AWS-GenAI-Learning
